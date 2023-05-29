@@ -1,5 +1,19 @@
 # @backstage/cli
 
+## 0.22.8-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/errors@1.2.0-next.0
+  - @backstage/cli-node@0.1.1-next.0
+  - @backstage/config-loader@1.3.1-next.1
+  - @backstage/cli-common@0.1.12
+  - @backstage/config@1.0.7
+  - @backstage/eslint-plugin@0.1.3
+  - @backstage/release-manifests@0.0.9
+  - @backstage/types@1.0.2
+
 ## 0.22.8-next.0
 
 ### Patch Changes
